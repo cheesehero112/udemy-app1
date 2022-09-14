@@ -8,6 +8,8 @@ This app is called "Indescision App". It lets the user add todo items, and let t
 
 It has an ability to remove single option or remove all options. 
 
+This project is a work-in-progress. Styling will be added in the coming days. 
+
 
 
 ## Files
